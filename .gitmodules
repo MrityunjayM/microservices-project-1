@@ -1,0 +1,23 @@
+[submodule "client"]
+    path = client
+    url = git@personal:MrityunjayM/client-microservice-project-1.git
+
+[submodule "comments"]
+    path = comments
+    url = git@personal:MrityunjayM/comments-microservice-project-1.git
+
+[submodule "event-bus"]
+    path = event-bus
+    url = git@personal:MrityunjayM/event-bus-microservice-project-1.git
+
+[submodule "moderation"]
+    path = moderation
+    url = git@personal:MrityunjayM/moderation-microservice-project-1.git
+
+[submodule "posts"]
+    path = posts
+    url = git@personal:MrityunjayM/posts-microservice-project-1.git
+
+[submodule "query"]
+    path = query
+    url = git@personal:MrityunjayM/query-microservice-project-1.git
